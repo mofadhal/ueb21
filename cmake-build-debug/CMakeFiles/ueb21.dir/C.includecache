@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/java projekte 2.semster/ueb21/librarayOne.h
+
+E:/java projekte 2.semster/ueb21/librarayTwo.h
+
+E:/java projekte 2.semster/ueb21/main.c
+stdio.h
+-
+librarayOne.h
+E:/java projekte 2.semster/ueb21/librarayOne.h
+librarayTwo.h
+E:/java projekte 2.semster/ueb21/librarayTwo.h
+stdlib.h
+-
+assert.h
+-
+
